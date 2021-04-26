@@ -2,5 +2,6 @@
   <router-view/>
 </template>
 
-<style lang="scss">
+<style lang="sass">
+@import "~@/assets/sass/app"
 </style>
